@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-
 # OK-CLINIC
-
-=======
 
 ---
 
@@ -27,10 +23,10 @@ Through this project, we aim to enhance digital efficiency in veterinary care wh
 
 #### Team Members:
 
-1. [Sandy Lumacad](https://github.com/SandyLMCD)
+1. [Sandy Lumacad](https://github.com/SandyLMCD) - ITCC 14 B
 2. [Sai Bacalso](https://github.com/yourusername)
-3. [Ethan Dosdos](https://github.com/yourusername)
-4. [Kate Almonte](https://github.com/yourusername)
+3. [Ethan Dosdos](https://github.com/yourusername) - ITCC 14 B
+4. [Kate Almonte](https://github.com/yourusername) - ITCC 14 B
 5. [Emma Ejera](https://github.com/yourusername)
 
 ---
