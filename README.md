@@ -11,7 +11,7 @@
 
 ## 💡 **About the Project**
 
-**OK Clinic** is a **web-based Veterinary Clinic Management System** developed as part of our integration project for **ITCC 33 (Systems Integration), CSCC 21 (API Development), and ITCC 14 (Database Systems)**.
+**OK Clinic** is a **web-based Veterinary Clinic Management System** developed as part of our integration project for **ITCC 33 (Database Systems), CSCC 21 (Software Engineering), and ITCC 14 (API Development)**.
 This platform is designed to **streamline veterinary operations** by providing an all-in-one solution for managing **appointments, patient (pet) medical records, billing, and staff scheduling**.
 
 The system allows pet owners to easily **book appointments online**, while veterinarians and clinic staff can **manage patient information, medical records, and invoices** through a secure and efficient interface. The integration of **MongoDB** and **Firebase** ensures reliable data storage and real-time updates, such as doctor availability and appointment notifications.
@@ -21,12 +21,19 @@ Through this project, we aim to enhance digital efficiency in veterinary care wh
 
 ---
 
+### Necessary Links:
+
+[🔗 LINK TO YAML SWAGGER](https://app.swaggerhub.com/apis/xavieruniversityaten/OK-Clinic-API/1.0.0)
+[🔗 LINK TO API ENDPOINTS GOOGLE DOCS](https://docs.google.com/document/d/1El0K3cZn2zUwJbFrQYqi-2IbYp3wUEaxHLeoicNQnWA/edit?tab=t.0)
+
+---
+
 #### Team Members:
 
 1. [Sandy Lumacad](https://github.com/SandyLMCD) - ITCC 14 B
-2. [Sai Bacalso](https://github.com/yourusername)
-3. [Ethan Dosdos](https://github.com/yourusername) - ITCC 14 B
-4. [Kate Almonte](https://github.com/yourusername) - ITCC 14 B
+2. [Sai Bacalso](https://github.com/saimurai-hub)
+3. [Ethan Dosdos](https://github.com/EthanDale26) - ITCC 14 B
+4. [Kate Almonte](https://github.com/kateAlmonte) - ITCC 14 B
 5. [Emma Ejera](https://github.com/yourusername)
 
 ---
@@ -38,7 +45,7 @@ Through this project, we aim to enhance digital efficiency in veterinary care wh
 - Finalize the project topic and define the **core problem** — the need for a unified, efficient veterinary clinic management system.
 - Identify key **modules** (Appointments, Patients, Doctors, Billing, Notifications).
 - Complete the initial project proposal document (Chapters 1 & 2).
-- Create the **first draft of API documentation**, listing planned endpoints (e.g., `/patients`, `/appointments`, `/doctors`).
+- Create the **first draft of API documentation**, listing planned endpoints (e.g., `/patients`, `/appointments`, `/owners`, `/medicalrecords`).
 
 **Deliverables:**
 
@@ -73,11 +80,10 @@ Through this project, we aim to enhance digital efficiency in veterinary care wh
 
 **Checklist:**
 
-- [ ] Chapter 3 completed
 - ✅ Repo created + dependencies installed
-- [ ] `/patients` and `/doctors` endpoints working
-- [ ] Updated API documentation
-- [ ] Commits pushed to GitHub
+- 🟠 `/patients` and `/doctors` and endpoints working (ONGOING)
+- 🟠 Updated API documentation
+- 🟠 Commits pushed to GitHub
 
 ---
 
@@ -85,7 +91,7 @@ Through this project, we aim to enhance digital efficiency in veterinary care wh
 
 **What we’ll do:**
 
-- Complete CRUD operations for all modules (Patients, Appointments, Billing, Notifications).
+- Complete CRUD operations for all modules (Patients, Appointments, Billing, Notifications, etc).
 - Implement **authentication** and **validation** for secure access.
 - Integrate **Firebase** for real-time doctor availability and alerts.
 - Add seed data for testing and demos.
@@ -98,9 +104,9 @@ Through this project, we aim to enhance digital efficiency in veterinary care wh
 
 **Checklist:**
 
-- [ ] All endpoints implemented
-- [ ] Authentication & validation added
-- [ ] Firebase integration tested
+- 🟠 All endpoints implemented (CURRENTLY IMPLEMENTED THE FF: PET PATIENTS, OWNERS, MEDICAL RECORDS, AND APPOINTMENTS)
+- 🟠 Authentication & validation added
+- [ ] Firebase integration tested* (this might be scrapped because we found out that we can do authentication in MongoDB)
 - [ ] Seed data ready
 - [ ] OpenAPI validated
 
